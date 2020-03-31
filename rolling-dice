@@ -1,0 +1,8 @@
+This is simple and easy dice simulation program for beginners 
+In this program we are using the random module of python
+
+steps to run 
+ 1.Clone/copy the dice.py file
+ 2.open terminal 
+ 3.type cmd : python3 dice.py
+ 4.run
