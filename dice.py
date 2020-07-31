@@ -1,3 +1,4 @@
+//by Rahul Pawar
 import random
 print("This is  Dice Simulator")
 
